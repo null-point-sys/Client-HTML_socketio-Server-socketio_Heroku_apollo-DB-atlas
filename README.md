@@ -1,4 +1,7 @@
-# Heroku-apollo-server-standalone-with-data
+# Client_HTML_socketio - Heroku_apollo_server_socket_io - data_in_atlas
+
+_ = same domain
+- = cross domain
 
 add mutation from html axios post >...• 
 
