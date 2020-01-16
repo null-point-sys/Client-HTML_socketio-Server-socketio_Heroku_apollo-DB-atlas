@@ -4,7 +4,7 @@
 
 Client_HTML_socketio send mutation from html fetch post or socket io event > ... (((• socketio_Heroku_apollo_server <> DB Atlas ))) ... < Client_HTML_socketio
 ----------
-1. Fetch mutation in client javascript vanilla:
+1. Fetch mutation in client javascript vanilla: source: https://blog.apollographql.com/4-simple-ways-to-call-a-graphql-api-a6807bcdb355
 
 fetch('https://1jzxrj179.lp.gql.zone/graphql', {
   method: 'POST',
@@ -13,8 +13,6 @@ fetch('https://1jzxrj179.lp.gql.zone/graphql', {
 })
   .then(res => res.json())
   .then(res => console.log(res.data));
-  
-  source: https://blog.apollographql.com/4-simple-ways-to-call-a-graphql-api-a6807bcdb355
 ----------- 
 2. socket io cross domain : http://maxprog.net.pl/node-js/socket-io-and-cross-domain-communication/
 -----------
