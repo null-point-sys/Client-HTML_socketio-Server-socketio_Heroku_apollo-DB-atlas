@@ -3,10 +3,10 @@
 _ = same domain
 - = cross domain
 
-add mutation from html axios post >...• 
+add mutation from html axios post >... (((•))) 
+((( • Heroku_apollo_server_socket_io )))
 
-• Servidor apollo para alojar objetos json desacoplados del cliente en heroku y cargarlos desde afuera
-((( = mecanismo de pulsación flush() para sse o socket io desde •
+((( = mecanismo de pulsación para socket io desde •
 
 HTML sse load from the EventSource API interface o socket io client <...(((•
 
