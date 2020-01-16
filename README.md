@@ -4,6 +4,8 @@
 
 _ same domain | - cross domain
 
+                                                                                                DB Atlas
+                                                                                                    |
 Client_HTML_socketio send mutation from html axios post or socket io event > ... (((• socketio_Heroku_apollo_server ))) ... < Client_HTML_socketio
 
 
