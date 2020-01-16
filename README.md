@@ -1,6 +1,6 @@
 # Client_HTML_socketio - Heroku_apollo_server_socket_io - data_in_atlas
 
-_ = same domain - = cross domain
+_ = same domain | - = cross domain
 
 add mutation from html axios post >... (((•))) 
 ((( • Heroku_apollo_server_socket_io )))
