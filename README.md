@@ -3,8 +3,8 @@
 add mutation from html axios post >...• 
 
 • Servidor apollo para alojar objetos json desacoplados del cliente en heroku y cargarlos desde afuera
-((( = mecanismo de pulsación flush() para sse desde •
+((( = mecanismo de pulsación flush() para sse o socket io desde •
 
-HTML sse load from the EventSource API interface <...(((•
+HTML sse load from the EventSource API interface o socket io client <...(((•
 
 
