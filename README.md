@@ -10,4 +10,6 @@ Client_HTML_socketio send mutation from html fetch post or socket io event > ...
 
 3. Apollo express for heroku: https://github.com/null-point-sys/express-apollo-graphql-starter
 
+4. Authentication JWT.
+
 
