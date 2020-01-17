@@ -1,6 +1,4 @@
-# Client:HTML_vanilla_socketio <> 
-# Server:heroku_express_apollo_socketio <> 
-## DB:atlas_mongo
+## Client:HTML_vanilla_socketio <> Server:heroku_express_apollo_socketio <> DB:atlas_mongo
 
 <img src="https://user-images.githubusercontent.com/25323947/72561042-48fc1d80-3876-11ea-8217-3b733d8d3876.png">
 
