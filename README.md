@@ -1,5 +1,6 @@
 ## Client HTML-vanilla <> Codesandbox:Server:socket io + null-point-sys/express-apollo-graphql-starter <> DB:atlas_mongo
 
+<img src="https://user-images.githubusercontent.com/25323947/79899504-853d9d80-83d2-11ea-9b73-e51ab2c8f5d7.png">
 
 
 Dinamica del request:
