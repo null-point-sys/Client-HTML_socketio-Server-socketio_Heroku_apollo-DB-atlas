@@ -1,6 +1,6 @@
 ## Client HTML-vanilla <> Codesandbox:Server:socket io + null-point-sys/express-apollo-graphql-starter <> DB:atlas_mongo
 
-<img src="https://user-images.githubusercontent.com/25323947/72561042-48fc1d80-3876-11ea-8217-3b733d8d3876.png">
+
 
 Dinamica del request:
 Client:HTML_vanilla_socketio send mutation with fetch post or socket io event > ... (((• Server:heroku_express_apollo_socketio <> DB:atlas_mongo ))) ... > Client:HTML_vanilla_socketio
